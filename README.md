@@ -1,6 +1,6 @@
 # 👾 Security Researcher | Fullstack Developer | DevOps
 
-Welcome! I’m Ameer Xoshnaw, a passionate security researcher, reverse engineer, and fullstack developer with a strong track record in Windows kernel, low-level programming, web technologies, and DevOps. My mission: solve complex engineering problems, ship robust software, and help teams build secure, performant systems.
+Welcome! I’m Ameer Xoshnaw, a passionate security researcher, reverse engineer, and fullstack developer with a strong track record in Windows kernel, programming, web technologies, and DevOps. My mission: solve complex engineering problems, ship robust software, and help teams build secure, performant systems.
 
 ---
 
